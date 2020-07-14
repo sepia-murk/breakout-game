@@ -30,7 +30,7 @@ https://www.mono-project.com/download/stable/
 To compile the code and run the game, use:
 
 ```console
-[user@device]$ csc index.cs && mono index.exe
+[user@device]$ csc breakout_game.cs && mono breakout_game.exe
 ```
 
 ## File structure
